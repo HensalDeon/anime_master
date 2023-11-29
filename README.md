@@ -1,3 +1,6 @@
+<img width="960" alt="Screenshot 2023-11-28 183008" src="https://github.com/HensalDeon/anime_master/assets/120702682/b9680395-d62b-4186-b1a2-ff78bb33d06e">
+
+
 # AnimeMaster
 
 AnimeMaster is a responsive web app built with Next.js, TypeScript, and Framer Motion to showcase a curated collection of animes based on popularity. The project includes features such as responsiveness, popularity sorting, and an engaging infinite scroll.
