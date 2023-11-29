@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AnimeMaster
+
+AnimeMaster is a responsive web app built with Next.js, TypeScript, and Framer Motion to showcase a curated collection of animes based on popularity. The project includes features such as responsiveness, popularity sorting, and an engaging infinite scroll.
+
+## Features
+
+- **Responsive Design**: Enjoy a seamless and visually appealing interface across various devices.
+- **Popularity Sorting**: Discover trending animes with an intuitive sorting feature.
+- **Infinite Scroll**: Seamlessly explore the extensive anime collection without page reloading.
+- **Next.js, TypeScript, and Framer Motion**: Leverage the power of Next.js for efficiency, TypeScript for a robust codebase, and Framer Motion for smooth animations.
+
+## Deployment
+
+The project is live and deployed on Vercel, providing a reliable and accessible platform for anime enthusiasts to explore. [Check it out here](animemaster.vercel.app).
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository: `git clone [repository-url]`
+2. Install dependencies: `npm install`
+3. Run the development server: `npm run dev`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Feedback
 
-## Learn More
+Your feedback is highly appreciated. If you have any questions or suggestions, please feel free to [reach out](hensaldeon777@gmail.com).
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is licensed under the [MIT License](LICENSE).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Happy coding! 🚀
